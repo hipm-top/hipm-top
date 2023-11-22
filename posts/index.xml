@@ -9,10 +9,10 @@
     <lastBuildDate>Wed, 22 Nov 2023 15:05:05 +0800</lastBuildDate>
     <atom:link href="https://hipm.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
-      <link>https://hipm.top/posts/first/</link>
+      <title>Hello</title>
+      <link>https://hipm.top/posts/hello/</link>
       <pubDate>Wed, 22 Nov 2023 15:05:05 +0800</pubDate>
-      <guid>https://hipm.top/posts/first/</guid>
+      <guid>https://hipm.top/posts/hello/</guid>
       <description>Intro Hello World.</description>
     </item>
   </channel>
