@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hi,PM</title>
+    <link>https://hipm.top/posts/</link>
+    <description>Recent content in Posts on Hi,PM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Nov 2023 15:05:05 +0800</lastBuildDate>
+    <atom:link href="https://hipm.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://hipm.top/posts/first/</link>
+      <pubDate>Wed, 22 Nov 2023 15:05:05 +0800</pubDate>
+      <guid>https://hipm.top/posts/first/</guid>
+      <description>Intro Hello World.</description>
+    </item>
+  </channel>
+</rss>
